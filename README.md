@@ -9,3 +9,4 @@
 5. Tag your issue with labels on the right side as shown in the screenshot below. Choose any and all applicable tags for your issue.
 3. Once your issue is resolved, leave a comment with what fixed it and close the issue.
 
+![screenshot of the issues page](https://user-images.githubusercontent.com/24426432/76330222-949dd700-62bb-11ea-96d4-574317b11ee8.png)
